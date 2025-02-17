@@ -6,4 +6,5 @@ This is a CL1 (Crude Oil) journal. See why and how in
 
 [[toc]]
 
-TBD
+## 2025-02-17 Monthly chart
+![image](images/2025-02-17/2025-02-17-1M.png)
