@@ -13,6 +13,7 @@ export default defineUserConfig({
     docsBranch: 'master',
     docsDir: '.',
     lastUpdated: true,
+    sidebarDepth: 3,
   }),
   plugins: [
     searchPlugin({ /* options */}),
