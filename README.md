@@ -14,5 +14,7 @@ This is a CL1 (Crude Oil) journal. See why and how in
 ### Weekly chart
 ![2025-02-17: Weekly chart](images/2025-02-17/2025-02-17-W.png)
 
-### Daily chart (Monday)
+### Daily chart
+
+#### Monday
 ![2025-02-17: Daily chart (Monday)](images/2025-02-17/2025-02-17-D.png)
