@@ -6,24 +6,15 @@ This is a CL1 (Crude Oil) journal. See why and how in
 
 [[toc]]
 
-# 2025-02-18
-## Monthly chart
-![2025-02-18: Monthly chart](images/2025-02-17/2025-02-17-M.png)
-## Weekly chart
-![2025-02-18: Weekly chart](images/2025-02-17/2025-02-17-W.png)
-## Daily chart
-![2025-02-18: Daily chart](images/2025-02-17/2025-02-17-D.png)
-### Monday
-3h chart (Monday):
-![2025-02-18: 3h chart (Monday)](images/2025-02-17/2025-02-17-3h.png)
-
-# 2025-02-17
-## Monthly chart
+## 2025 Feb W3
+February 2025, Week 3
+### Monthly chart
 ![2025-02-17: Monthly chart](images/2025-02-17/2025-02-17-M.png)
-## Weekly chart
+### Weekly chart
 ![2025-02-17: Weekly chart](images/2025-02-17/2025-02-17-W.png)
-## Daily chart
+### Daily chart
 ![2025-02-17: Daily chart](images/2025-02-17/2025-02-17-D.png)
-### Monday
-3h chart (Monday):
-![2025-02-17: 3h chart (Monday)](images/2025-02-17/2025-02-17-3h.png)
+### Monday 3h chart
+![2025-02-17: Monday 3h chart](images/2025-02-17/2025-02-17-3h.png)
+### Monday 1h chart
+![2025-02-17: Monday 1h chart](images/2025-02-17/2025-02-17-1h.png)
