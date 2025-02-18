@@ -1,7 +1,7 @@
 {
   "name": "cl",
   "version": "0.0.1",
-  "description": "A CL (Crude Oil) Journal",
+  "description": "Crude Oil Journal",
   "license": "MIT",
   "type": "module",
   "keywords": [
