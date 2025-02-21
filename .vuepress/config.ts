@@ -3,7 +3,6 @@ import { description, name } from '../package.json';
 import { viteBundler } from '@vuepress/bundler-vite';
 import { defaultTheme } from '@vuepress/theme-default';
 import { searchPlugin } from '@vuepress/plugin-search';
-import { tocPlugin } from "@vuepress/plugin-toc";
 
 export default defineUserConfig({
   base: !process.env.BASE_HREF ? '/' : `/${name}/`,
@@ -15,10 +14,8 @@ export default defineUserConfig({
     docsDir: '.',
     lastUpdated: true,
     sidebarDepth: 2,
-    toggleSidebar: 'Toggle',
   }),
   plugins: [
     searchPlugin({ /* options */ }),
-    tocPlugin({ /* options */ }),
   ],
 });
