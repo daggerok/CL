@@ -9,6 +9,12 @@ video.
 
 ## 2025 Feb W3
 February 2025, Week 3
+### 2025-02-20: Thursday 1h
+![2025-02-20: Thursday 1h](images/2025-02-20/2025-02-20-1h.png)
+### 2025-02-20: Thursday 3h
+![2025-02-20: Thursday 3h](images/2025-02-20/2025-02-20-3h.png)
+### 2025-02-20: Thursday Daily
+![2025-02-20: Daily](images/2025-02-20/2025-02-20-D.png)
 ### 2025-02-19: Wednesday 1h
 ![2025-02-19: Wednesday 1h](images/2025-02-19/2025-02-19-1h.png)
 ### 2025-02-19: Wednesday 3h
