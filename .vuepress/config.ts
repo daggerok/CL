@@ -15,6 +15,7 @@ export default defineUserConfig({
     docsDir: '.',
     lastUpdated: true,
     sidebarDepth: 2,
+    toggleSidebar: 'Toggle',
   }),
   plugins: [
     searchPlugin({ /* options */ }),
